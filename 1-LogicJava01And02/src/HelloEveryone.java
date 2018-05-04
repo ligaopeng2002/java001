@@ -19,6 +19,7 @@ public class HelloEveryone {
 		// 向控制台输出一段内容
 		System.out.print("各位早上好\n");                                 
 		System.out.print(12);// 这也是一个注释
+		System.out.print(13);// 这也是一个注释
 
 		// 使用快捷键ctrl+/
 		/*
